@@ -1,3 +1,7 @@
+</div>
+</div>
+</div>
+
 <div id="footer">
     <div class="footer-instagram-section">
         <h3 class="footer-instagram-title text-center text-uppercase">Instagram</h3>
